@@ -1,18 +1,6 @@
 #include <windows.h>
 #include <iostream>
-#include <codecvt>
-#include <iomanip>
-#include <clocale>
-#include <iostream>
 #include <string>
-#include <tchar.h>
-#include <locale.h>
-#include <io.h>
-#include <fcntl.h>
-#include <codecvt>
-#include <string>
-#include <cassert>
-#include <locale>
 
 int
 main(int argc, char *argv[]) {
